@@ -1,3 +1,3 @@
 # clickyGame
 
-#  https://sochitty.github.io/clickyGame/
+# https://clicky-game-sochitty.herokuapp.com/
